@@ -406,6 +406,7 @@ repeat | if | change_type | foreach | set_option | interaction )*>
     retained CDATA "false"
     timeout CDATA "1"
     username CDATA ""
+    client_id CDATA ""
     password CDATA "">
 
 <!ELEMENT modification (attr*) >
