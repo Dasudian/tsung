@@ -72,7 +72,7 @@
   id,
   type,
   dup = 0,
-  qos = 0,
+  qos = 1,
   retain = 0,
   arg
 }).
